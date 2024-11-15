@@ -1,3 +1,4 @@
-# Semantic Kernal Rust: 
+# Semantic Kernel Rust: 
 
-I've not started with the coding yet. I'm still going through the semantic kernal and learning it.
+I've not started with the coding yet. I'm still going through the semantic kernel and learning it.
+To check the progress check `feature/kernel` branch.
