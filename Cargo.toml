@@ -1,0 +1,3 @@
+[workspace]
+members = ["kernal"]
+resolver = "2"
